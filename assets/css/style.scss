@@ -1709,9 +1709,15 @@ html{
 
                     }
 
+                    @include d12{
+
+                        font-size: 1.6em;
+
+                    }
+
                     @include d13{
 
-                        font-size: 1.4em;
+                        font-size: 1.3em;
 
                     }
 

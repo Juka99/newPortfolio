@@ -1433,9 +1433,15 @@ html body .contact h2 {
   }
 }
 
+@media (max-width: 480px) {
+  html body .contact h2 {
+    font-size: 1.6em;
+  }
+}
+
 @media (max-width: 380px) {
   html body .contact h2 {
-    font-size: 1.4em;
+    font-size: 1.3em;
   }
 }
 
