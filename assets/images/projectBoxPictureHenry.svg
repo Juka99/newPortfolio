@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#222222;}
+	.st1{opacity:0.35;fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:none;}
+	.st5{fill:#FF684A;}
+	.st6{font-family:'Impact';}
+	.st7{font-size:60px;}
+</style>
+<rect x="1" class="st0" width="399" height="401"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="205.709" y1="213.8631" x2="150.8437" y2="-12.7542">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st1" d="M1,141c12.49-16.59,33.14-38.52,64-49c59.21-20.1,100.49,20.81,157,12c32.05-5,74.91-26.91,119-104
+	C227.67,0,114.33,0,1,0C1,47,1,94,1,141z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-0.5" y1="334.853" x2="399.5" y2="334.853">
+	<stop  offset="0" style="stop-color:#FF8008"/>
+	<stop  offset="1" style="stop-color:#FFC837"/>
+</linearGradient>
+<path class="st2" d="M-0.5,361.5c39.85-3.02,65.24-15.37,81-26c19.79-13.35,29.98-27.74,54-33c18.64-4.08,28.51,1.07,46,3
+	c55.3,6.11,76.45-32.2,128-36c20.4-1.5,51.26,1.98,91,29c0,34,0,68,0,102c-133.33,0-266.67,0-400,0C-0.5,387.5-0.5,374.5-0.5,361.5z
+	"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1" y1="53.5" x2="320" y2="53.5">
+	<stop  offset="0" style="stop-color:#FF8008"/>
+	<stop  offset="1" style="stop-color:#FFC837"/>
+</linearGradient>
+<path class="st3" d="M1,107c20.21-14.14,50.6-30.75,89-34c50.54-4.28,73.81,18.09,113,15c30.24-2.38,71.17-20.01,117-88
+	C213.67,0,107.33,0,1,0C1,35.67,1,71.33,1,107z"/>
+<rect x="106.74" y="171.17" class="st4" width="225.26" height="83.83"/>
+<text transform="matrix(1 0 0 1 106.7409 218.6262)" class="st5 st6 st7">H e n r y</text>
+</svg>
