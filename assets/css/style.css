@@ -144,7 +144,7 @@ html body .toggleNav::before {
 html body .toggleNav::after {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
-  top: 10% !important;
+  top: 5% !important;
 }
 
 html body .nav {
